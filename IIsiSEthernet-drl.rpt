@@ -1,0 +1,35 @@
+Drill report for /home/dolbeau/MAC/IIsiSEthernet/IIsiSEthernet.kicad_pcb
+Created on Thu Apr  4 13:03:41 2024
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'IIsiSEthernet-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (78 holes)
+    T2  0.40mm  0.016"  (85 holes)
+    T3  0.50mm  0.020"  (2 holes)  (with 2 slots)
+    T4  0.55mm  0.022"  (2 holes)  (with 2 slots)
+    T5  0.89mm  0.035"  (4 holes)
+    T6  0.90mm  0.035"  (8 holes)
+    T7  1.00mm  0.039"  (10 holes)
+    T8  1.07mm  0.042"  (120 holes)
+    T9  1.60mm  0.063"  (2 holes)
+    T10  2.89mm  0.114"  (2 holes)
+
+    Total plated holes count 313
+
+
+Drill file 'IIsiSEthernet-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (4 holes)
+    T2  3.25mm  0.128"  (2 holes)
+
+    Total unplated holes count 6

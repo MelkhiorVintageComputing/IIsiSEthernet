@@ -1,0 +1,438 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1275 2050 2600 2050
+$Comp
+L Device:R R?
+U 1 1 65C9C8D0
+P 2600 1600
+AR Path="/5F6B165A/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/5F679B53/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/618F532C/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/633B99E8/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/633459A7/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/65DC239E/65C9C8D0" Ref="R?"  Part="1" 
+AR Path="/65C96A63/65C9C8D0" Ref="R9"  Part="1" 
+F 0 "R9" V 2680 1600 50  0000 C CNN
+F 1 "49.9" V 2600 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 2530 1600 50  0001 C CNN
+F 3 "" H 2600 1600 50  0000 C CNN
+F 4 "0402WGF499JTCE" V 2600 1000 50  0001 C CNN "MPN"
+F 5 "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.html" V 2600 1600 50  0001 C CNN "URL"
+	1    2600 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 65C9C8D8
+P 1900 1600
+AR Path="/5F6B165A/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/5F679B53/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/618F532C/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/633B99E8/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/633459A7/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/65DC239E/65C9C8D8" Ref="R?"  Part="1" 
+AR Path="/65C96A63/65C9C8D8" Ref="R8"  Part="1" 
+F 0 "R8" V 1980 1600 50  0000 C CNN
+F 1 "49.9" V 1900 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 1830 1600 50  0001 C CNN
+F 3 "" H 1900 1600 50  0000 C CNN
+F 4 "0402WGF499JTCE" V 1900 1000 50  0001 C CNN "MPN"
+F 5 "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.html" V 1900 1600 50  0001 C CNN "URL"
+	1    1900 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 65C9C8E0
+P 1800 1600
+AR Path="/5F6B165A/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/5F679B53/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/618F532C/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/633B99E8/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/633459A7/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/65DC239E/65C9C8E0" Ref="R?"  Part="1" 
+AR Path="/65C96A63/65C9C8E0" Ref="R7"  Part="1" 
+F 0 "R7" V 1880 1600 50  0000 C CNN
+F 1 "49.9" V 1800 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 1730 1600 50  0001 C CNN
+F 3 "" H 1800 1600 50  0000 C CNN
+F 4 "0402WGF499JTCE" V 1800 1000 50  0001 C CNN "MPN"
+F 5 "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.html" V 1800 1600 50  0001 C CNN "URL"
+	1    1800 1600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2700 1450 2600 1450
+Wire Wire Line
+	1900 1450 1800 1450
+Wire Wire Line
+	2700 1750 2700 1850
+Wire Wire Line
+	2600 1750 2600 2050
+$Comp
+L Device:C C?
+U 1 1 65C9C8F4
+P 2050 1600
+AR Path="/5F679B53/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/5F6B165A/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/612D28DD/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/61B62C00/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/633B99E8/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/633459A7/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/65DC239E/65C9C8F4" Ref="C?"  Part="1" 
+AR Path="/65C96A63/65C9C8F4" Ref="C22"  Part="1" 
+F 0 "C22" H 2075 1700 50  0000 L CNN
+F 1 "10nF 0402" H 2075 1500 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 2088 1450 50  0001 C CNN
+F 3 "" H 2050 1600 50  0000 C CNN
+F 4 "" H 2050 1600 50  0001 C CNN "MNF1_URL"
+F 5 "CL05B103KB5NNNC" H 2050 1600 50  0001 C CNN "MPN"
+F 6 "" H 2050 1600 50  0001 C CNN "Mouser"
+F 7 "?" H 2050 1600 50  0001 C CNN "Digikey"
+F 8 "" H 2050 1600 50  0001 C CNN "LCSC"
+F 9 "?" H 2050 1600 50  0001 C CNN "Koncar"
+F 10 "TB" H 2050 1600 50  0001 C CNN "Side"
+F 11 "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html" H 2050 1600 50  0001 C CNN "URL"
+	1    2050 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65C9C8FA
+P 2050 1750
+AR Path="/65DC239E/656B5D92/65C9C8FA" Ref="#PWR?"  Part="1" 
+AR Path="/65DC239E/65C9C8FA" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/65C9C8FA" Ref="#PWR0127"  Part="1" 
+F 0 "#PWR0127" H 2050 1500 50  0001 C CNN
+F 1 "GND" V 2055 1622 50  0000 R CNN
+F 2 "" H 2050 1750 50  0001 C CNN
+F 3 "" H 2050 1750 50  0001 C CNN
+	1    2050 1750
+	1    0    0    -1  
+$EndComp
+Text GLabel 3075 2750 0    50   Input ~ 0
+LEDB
+Text GLabel 3075 2550 0    50   Input ~ 0
+LEDA
+Text GLabel 1275 1850 0    50   Input ~ 0
+TPOUT+
+Text GLabel 1275 2050 0    50   Input ~ 0
+TPOUT-
+Text GLabel 1275 2150 0    50   Input ~ 0
+TPIN+
+Text GLabel 1275 2350 0    50   Input ~ 0
+TPIN-
+$Comp
+L Device:C C?
+U 1 1 65C9C92A
+P 3075 1600
+AR Path="/5F679B53/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/5F6B165A/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/612D28DD/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/61B62C00/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/633B99E8/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/633459A7/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/65DC239E/65C9C92A" Ref="C?"  Part="1" 
+AR Path="/65C96A63/65C9C92A" Ref="C31"  Part="1" 
+F 0 "C31" H 3100 1700 50  0000 L CNN
+F 1 "10nF 0402" H 3100 1500 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 3113 1450 50  0001 C CNN
+F 3 "" H 3075 1600 50  0000 C CNN
+F 4 "" H 3075 1600 50  0001 C CNN "MNF1_URL"
+F 5 "CL05B103KB5NNNC" H 3075 1600 50  0001 C CNN "MPN"
+F 6 "" H 3075 1600 50  0001 C CNN "Mouser"
+F 7 "?" H 3075 1600 50  0001 C CNN "Digikey"
+F 8 "" H 3075 1600 50  0001 C CNN "LCSC"
+F 9 "?" H 3075 1600 50  0001 C CNN "Koncar"
+F 10 "TB" H 3075 1600 50  0001 C CNN "Side"
+F 11 "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html" H 3075 1600 50  0001 C CNN "URL"
+	1    3075 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65C9C930
+P 3075 1750
+AR Path="/65DC239E/656B5D92/65C9C930" Ref="#PWR?"  Part="1" 
+AR Path="/65DC239E/65C9C930" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/65C9C930" Ref="#PWR0131"  Part="1" 
+F 0 "#PWR0131" H 3075 1500 50  0001 C CNN
+F 1 "GND" V 3080 1622 50  0000 R CNN
+F 2 "" H 3075 1750 50  0001 C CNN
+F 3 "" H 3075 1750 50  0001 C CNN
+	1    3075 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1900 1450 2050 1450
+Connection ~ 1900 1450
+Wire Wire Line
+	2275 2250 3375 2250
+Connection ~ 2050 1450
+Wire Wire Line
+	2050 1450 2275 1450
+Wire Wire Line
+	3375 1950 3325 1950
+Connection ~ 2600 2050
+Connection ~ 2700 1850
+Wire Wire Line
+	2700 1850 3375 1850
+Wire Wire Line
+	2600 2050 3375 2050
+Wire Wire Line
+	3325 1950 3325 1450
+Wire Wire Line
+	3325 1450 3075 1450
+$Comp
+L Device:R R?
+U 1 1 65C9C948
+P 2875 1450
+AR Path="/5F6B165A/65C9C948" Ref="R?"  Part="1" 
+AR Path="/5F679B53/65C9C948" Ref="R?"  Part="1" 
+AR Path="/618F532C/65C9C948" Ref="R?"  Part="1" 
+AR Path="/633B99E8/65C9C948" Ref="R?"  Part="1" 
+AR Path="/633459A7/65C9C948" Ref="R?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C948" Ref="R?"  Part="1" 
+AR Path="/65DC239E/65C9C948" Ref="R?"  Part="1" 
+AR Path="/65C96A63/65C9C948" Ref="R14"  Part="1" 
+F 0 "R14" V 2955 1450 50  0000 C CNN
+F 1 "10 1/12W 1%" V 3100 1375 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 2805 1450 50  0001 C CNN
+F 3 "" H 2875 1450 50  0000 C CNN
+F 4 "0805W8F100JT5E" V 2875 850 50  0001 C CNN "MPN"
+F 5 "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.html" V 2875 1450 50  0001 C CNN "URL"
+	1    2875 1450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2725 1450 2700 1450
+Connection ~ 2700 1450
+Wire Wire Line
+	3025 1450 3075 1450
+Connection ~ 3075 1450
+$Comp
+L power:+3V3 #PWR?
+U 1 1 65C9C952
+P 2600 1450
+AR Path="/65DC239E/65C9C952" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/65C9C952" Ref="#PWR0132"  Part="1" 
+F 0 "#PWR0132" H 2600 1300 50  0001 C CNN
+F 1 "+3V3" H 2615 1623 50  0000 C CNN
+F 2 "" H 2600 1450 50  0001 C CNN
+F 3 "" H 2600 1450 50  0001 C CNN
+	1    2600 1450
+	1    0    0    -1  
+$EndComp
+Connection ~ 2600 1450
+$Comp
+L Device:C C?
+U 1 1 65C9C95A
+P 2150 2150
+AR Path="/65DC239E/65C9C95A" Ref="C?"  Part="1" 
+AR Path="/65C96A63/65C9C95A" Ref="C29"  Part="1" 
+F 0 "C29" V 1898 2150 50  0000 C CNN
+F 1 "6.8nF 10% 0603" V 1989 2150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2188 2000 50  0001 C CNN
+F 3 "~" H 2150 2150 50  0001 C CNN
+F 4 "0603B682K500NT" H 2150 2150 50  0001 C CNN "MPN"
+	1    2150 2150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 65C9C961
+P 2150 2350
+AR Path="/65DC239E/65C9C961" Ref="C?"  Part="1" 
+AR Path="/65C96A63/65C9C961" Ref="C30"  Part="1" 
+F 0 "C30" V 1898 2350 50  0000 C CNN
+F 1 "6.8nF 10% 0603" V 1989 2350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2188 2200 50  0001 C CNN
+F 3 "~" H 2150 2350 50  0001 C CNN
+F 4 "0603B682K500NT" H 2150 2350 50  0001 C CNN "MPN"
+	1    2150 2350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2300 2150 3375 2150
+Wire Wire Line
+	3375 2350 2300 2350
+Text Label 2700 2150 0    50   ~ 0
+RD+
+Text Label 2700 2350 0    50   ~ 0
+RD-
+Text Label 2700 2250 0    50   ~ 0
+RCT
+Text HLabel 3325 1450 2    50   Input ~ 0
+ETH_3V3
+$Comp
+L Device:R R?
+U 1 1 65C9C8C8
+P 2700 1600
+AR Path="/5F6B165A/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/5F679B53/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/618F532C/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/633B99E8/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/633459A7/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/65DC239E/656B5D92/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/65DC239E/65C9C8C8" Ref="R?"  Part="1" 
+AR Path="/65C96A63/65C9C8C8" Ref="R10"  Part="1" 
+F 0 "R10" V 2780 1600 50  0000 C CNN
+F 1 "49.9" V 2700 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 2630 1600 50  0001 C CNN
+F 3 "" H 2700 1600 50  0000 C CNN
+F 4 "0402WGF499JTCE" V 2700 1000 50  0001 C CNN "MPN"
+F 5 "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.html" V 2700 1600 50  0001 C CNN "URL"
+	1    2700 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Ferrite_Bead FB1
+U 1 1 65CA8E69
+P 2700 3150
+F 0 "FB1" V 2426 3150 50  0000 C CNN
+F 1 "Ferrite_Bead" V 2517 3150 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric" V 2630 3150 50  0001 C CNN
+F 3 "~" H 2700 3150 50  0001 C CNN
+F 4 "GZ2012D601TF" V 2700 3150 50  0001 C CNN "MPN"
+	1    2700 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR0133
+U 1 1 65CA9C7C
+P 2850 3150
+F 0 "#PWR0133" H 2850 2900 50  0001 C CNN
+F 1 "Earth" H 2850 3000 50  0001 C CNN
+F 2 "" H 2850 3150 50  0001 C CNN
+F 3 "~" H 2850 3150 50  0001 C CNN
+	1    2850 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65CAA0DE
+P 2550 3150
+AR Path="/65DC239E/656B5D92/65CAA0DE" Ref="#PWR?"  Part="1" 
+AR Path="/65DC239E/65CAA0DE" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/65CAA0DE" Ref="#PWR0134"  Part="1" 
+F 0 "#PWR0134" H 2550 2900 50  0001 C CNN
+F 1 "GND" V 2555 3022 50  0000 R CNN
+F 2 "" H 2550 3150 50  0001 C CNN
+F 3 "" H 2550 3150 50  0001 C CNN
+	1    2550 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1275 1850 2700 1850
+$Comp
+L Connector:RJ45_Amphenol_RJMG1BD3B8K1ANR J5
+U 1 1 6627FE82
+P 4275 2350
+F 0 "J5" H 4275 3075 50  0000 C CNN
+F 1 "RJ45_Amphenol_RJMG1BD3B8K1ANR" H 4275 2984 50  0000 C CNN
+F 2 "Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR" H 4275 3050 50  0001 C CNN
+F 3 "https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF" H 4275 3150 50  0001 C CNN
+F 4 "RJMG1BD3B8K1ANR" H 4275 2350 50  0001 C CNN "MPN"
+	1    4275 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0161
+U 1 1 663E45AA
+P 4275 3050
+F 0 "#PWR0161" H 4275 2800 50  0001 C CNN
+F 1 "Earth" H 4275 2900 50  0001 C CNN
+F 2 "" H 4275 3050 50  0001 C CNN
+F 3 "~" H 4275 3050 50  0001 C CNN
+	1    4275 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1275 2350 1800 2350
+Wire Wire Line
+	1275 2150 1900 2150
+Wire Wire Line
+	2275 2250 2275 1450
+Wire Wire Line
+	1800 1750 1800 2350
+Connection ~ 1800 2350
+Wire Wire Line
+	1800 2350 2000 2350
+Wire Wire Line
+	1900 1750 1900 2150
+Connection ~ 1900 2150
+Wire Wire Line
+	1900 2150 2000 2150
+NoConn ~ 5175 2750
+$Comp
+L power:GND #PWR?
+U 1 1 6643BB89
+P 3375 2850
+AR Path="/65DC239E/656B5D92/6643BB89" Ref="#PWR?"  Part="1" 
+AR Path="/65DC239E/6643BB89" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/6643BB89" Ref="#PWR0162"  Part="1" 
+F 0 "#PWR0162" H 3375 2600 50  0001 C CNN
+F 1 "GND" V 3380 2722 50  0000 R CNN
+F 2 "" H 3375 2850 50  0001 C CNN
+F 3 "" H 3375 2850 50  0001 C CNN
+	1    3375 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6643C242
+P 3375 2650
+AR Path="/65DC239E/656B5D92/6643C242" Ref="#PWR?"  Part="1" 
+AR Path="/65DC239E/6643C242" Ref="#PWR?"  Part="1" 
+AR Path="/65C96A63/6643C242" Ref="#PWR0163"  Part="1" 
+F 0 "#PWR0163" H 3375 2400 50  0001 C CNN
+F 1 "GND" V 3380 2522 50  0000 R CNN
+F 2 "" H 3375 2650 50  0001 C CNN
+F 3 "" H 3375 2650 50  0001 C CNN
+	1    3375 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 66440CE5
+P 3225 2550
+F 0 "R15" V 3018 2550 50  0000 C CNN
+F 1 "510 0402" V 3109 2550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 3155 2550 50  0001 C CNN
+F 3 "~" H 3225 2550 50  0001 C CNN
+F 4 "0402WGF5100TCE" V 3225 2550 50  0001 C CNN "MPN"
+	1    3225 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 6644CE4B
+P 3225 2750
+F 0 "R16" V 3018 2750 50  0000 C CNN
+F 1 "510 0402" V 3109 2750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 3155 2750 50  0001 C CNN
+F 3 "~" H 3225 2750 50  0001 C CNN
+F 4 "0402WGF5100TCE" V 3225 2750 50  0001 C CNN "MPN"
+	1    3225 2750
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
