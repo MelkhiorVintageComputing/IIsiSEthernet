@@ -1,4 +1,4 @@
-### Module positions - created on Sun Apr 14 08:17:29 2024 ###
+### Module positions - created on Sun Apr 14 08:38:48 2024 ###
 ### Printed by Pcbnew version kicad 5.1.9+dfsg1-1~bpo10+1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -40,7 +40,7 @@ R2        100k                           R_0402_1005Metric                      
 R3        12.4k_1%                       R_0402_1005Metric                           -82.2500    14.0000  270.0000  top
 R4        10k                            R_0402_1005Metric                            -1.7500    11.7700  270.0000  top
 R5        10k                            R_0402_1005Metric                             7.7500    11.7700  270.0000  top
-R6        27                             R_0402_1005Metric                           -84.0000    23.5000  180.0000  top
+R6        33                             R_0402_1005Metric                           -84.0000    23.5000  180.0000  top
 R7        49.9                           R_0402_1005Metric                           -67.5000    14.0000  270.0000  top
 R8        49.9                           R_0402_1005Metric                           -67.5000    16.0000   90.0000  top
 R9        49.9                           R_0402_1005Metric                           -69.2500    13.5000   90.0000  top

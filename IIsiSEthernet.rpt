@@ -1,4 +1,4 @@
-## Footprint report - date Sun Apr 14 08:17:36 2024
+## Footprint report - date Sun Apr 14 08:38:54 2024
 ## Created by Pcbnew version kicad 5.1.9+dfsg1-1~bpo10+1
 ## Unit = mm, Angle = deg.
 
@@ -161,48 +161,6 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  S1
-
-$MODULE "R5"
-reference "R5"
-value "10k"
-footprint "Resistor_SMD:R_0402_1005Metric"
-attribut smd
-position 207.750000 138.230000  orientation 270.00
-layer front
-$PAD "2"
-Shape Roundrect Layer front
-position  0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "1"
-Shape Roundrect Layer front
-position -0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  R5
-
-$MODULE "R4"
-reference "R4"
-value "10k"
-footprint "Resistor_SMD:R_0402_1005Metric"
-attribut smd
-position 198.250000 138.230000  orientation 270.00
-layer front
-$PAD "2"
-Shape Roundrect Layer front
-position  0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "1"
-Shape Roundrect Layer front
-position -0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  R4
 
 $MODULE "IC1"
 reference "IC1"
@@ -404,6 +362,48 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  IC1
+
+$MODULE "R5"
+reference "R5"
+value "10k"
+footprint "Resistor_SMD:R_0402_1005Metric"
+attribut smd
+position 207.750000 138.230000  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R4"
+reference "R4"
+value "10k"
+footprint "Resistor_SMD:R_0402_1005Metric"
+attribut smd
+position 198.250000 138.230000  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.510000  0.000000  size  0.540000  0.640000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
 
 $MODULE "TP1"
 reference "TP1"
@@ -2174,7 +2174,7 @@ $EndMODULE  R7
 
 $MODULE "R6"
 reference "R6"
-value "27"
+value "33"
 footprint "Resistor_SMD:R_0402_1005Metric"
 attribut smd
 position 116.000000 126.500000  orientation 180.00
