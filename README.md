@@ -10,3 +10,4 @@ License is the same as the original:
 
 The hardware components of this project (board designs and programmable logic) are licensed under the Strongly-Reciprocal CERN Open Hardware License, version 2.
 
+Please see also [the comments on licensing of the original design](https://github.com/rhalkyard/SEthernet?tab=readme-ov-file#license).
